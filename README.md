@@ -1,4 +1,4 @@
-<p align="center"><img width=100% src="https://github.com/A-Singh15/A-Singh15/blob/master/assets/Profile_Intro.gif"></p>
+<p align="center"><img width=100% src="https://github.com/a-singh15/a-singh15/blob/master/assets/Profile_Intro.gif"></p>
 
 
 ### Languages
