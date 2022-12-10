@@ -1,4 +1,3 @@
-//<p align="center"><img width=100% src="https://github.com/A-Singh15/A-Singh15/blob/main/Profile_Intro.gif"></p>
 
 
 ### Languages
