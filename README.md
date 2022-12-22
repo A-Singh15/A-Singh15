@@ -35,7 +35,7 @@ I'm Aaron! I'm a ** Developer**:iphone:, looking to solve **real-world problems*
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=A-Singh15&style=flat)
-[![Github](https://img.shields.io/badge/-A-Singh15-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
+[![Github](https://img.shields.io/badge/-A-Singh15-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/A-Singh15)
 
 <!-- gif Image -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
