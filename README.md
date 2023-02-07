@@ -20,6 +20,7 @@ I'm Aaron! I'm a ** Developer**:iphone:, looking to solve **real-world problems*
 * Kotlin
 * Some Personal Projects 😍
 * 🔜
+* Python
 
 ### 🌱 Challenges that I’m currently challenging myself:
 Since the World is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
