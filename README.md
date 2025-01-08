@@ -17,7 +17,6 @@ I'm Aaron! I'm a ** Developer**:iphone:, looking to solve **real-world problems*
 <!-- current status -->
 ### 💼  Things that I'm currently working on: 
 * Data Structures and Algorithms 💫
-* Kotlin
 * Some Personal Projects 😍
 * 🔜
 * Python
