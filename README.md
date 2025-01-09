@@ -25,23 +25,21 @@ Welcome to my GitHub profile! I'm **Aaron Singh**, a passionate **developer** ðŸ
 ![Java](https://img.shields.io/badge/-Java-000?logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?logo=MySQL)
+![Swift](https://img.shields.io/badge/-Swift-000?logo=Swift)
+![HTML5](https://img.shields.io/badge/-HTML5-000?logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
+
+---
 
 ### Frameworks & Tools
 ![React](https://img.shields.io/badge/-React-000?logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express)
 ![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?logo=Kubernetes)
 ![AWS](https://img.shields.io/badge/-AWS-000?logo=Amazon-AWS&logoColor=F90)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?logo=TensorFlow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=PyTorch)
-
-### Tools & IDEs
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-
----
+![GCP (Google Cloud)](https://img.shields.io/badge/-GCP-000?logo=Google-Cloud&logoColor=4285F4)
+![Django](https://img.shields.io/badge/-Django-000?logo=Django)
 
 ## âœ¨ 
 
