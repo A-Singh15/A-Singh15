@@ -46,19 +46,20 @@ Welcome to my GitHub profile! I'm **Aaron Singh**, a passionate **developer** �
 ## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://gitstats.me/A-Singh15">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-Singh15&show_icons=true&theme=algolia&count_private=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=A-Singh15&theme=algolia" />
+  <a href="https://github.com/A-Singh15">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=A-Singh15&show_icons=true&theme=algolia&count_private=true" />
+  </a>
+  <a href="https://github.com/A-Singh15">
+    <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=A-Singh15&theme=algolia" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://gitstats.me/A-Singh15">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Singh15&layout=compact&theme=algolia" />
+  <a href="https://github.com/A-Singh15">
+    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Singh15&layout=compact&theme=algolia" />
   </a>
 </div>
 
----
 
 ## 🌱 Current Challenges
 
