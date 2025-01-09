@@ -45,18 +45,18 @@ Welcome to my GitHub profile! I'm **Aaron Singh**, a passionate **developer** �
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
   <a href="https://gitstats.me/A-Singh15">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=A-Singh15&show_icons=true&theme=algolia&count_private=true" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=A-Singh15&theme=algolia" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-Singh15&show_icons=true&theme=algolia&count_private=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=A-Singh15&theme=algolia" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://gitstats.me/A-Singh15">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Singh15&layout=compact&theme=algolia" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -71,7 +71,7 @@ I’m constantly pushing myself to grow as a developer. Here are some of my pers
 
 ---
 
-## ✨ Fun Widgets
+## ✨ 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=A-Singh15&theme=algolia" alt="GitHub Trophies" />
