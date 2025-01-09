@@ -43,35 +43,6 @@ Welcome to my GitHub profile! I'm **Aaron Singh**, a passionate **developer** �
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/A-Singh15">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=A-Singh15&show_icons=true&theme=algolia&count_private=true" />
-  </a>
-  <a href="https://github.com/A-Singh15">
-    <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=A-Singh15&theme=algolia" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/A-Singh15">
-    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Singh15&layout=compact&theme=algolia" />
-  </a>
-</div>
-
-
-## 🌱 Current Challenges
-
-I’m constantly pushing myself to grow as a developer. Here are some of my personal goals:
-1. Code for **5–6 hours daily** with minimal distractions.
-2. Read dev articles and explore new UI/UX trends daily.
-3. Stay active with regular workouts 🏋️‍♂️.
-4. Avoid excessive time spent on entertainment platforms like YouTube.
-5. Embrace a minimalist lifestyle for better focus.
-
----
-
 ## ✨ 
 
 <p align="center">
