@@ -1,6 +1,5 @@
-<h1 align="center">Hey there! ⚡🤖</h1>
+<h1 align="center">Hello there! ⚡🤖</h1>
 
-h1 align="center">Hello there  ⚡🤖</h1>
 
 <p align="center">
   I'm <strong>Aaron</strong> — a <strong>Graduate Student Researcher in Electrical & Computer Engineering</strong> 🎓. <br>
