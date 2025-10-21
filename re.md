@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr22vNW/giphy.gif" width="40" /> <em><b>Open to collaborations in AI hardware, robotics, and embedded R&D!</b></em>
 </p>
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" align="right" width="460" />
 
 ---
 
