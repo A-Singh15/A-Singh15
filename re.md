@@ -1,5 +1,7 @@
 <h1 align="center">Hey there! ⚡🤖</h1>
 
+h1 align="center">Hello there  ⚡🤖</h1>
+
 <p align="center">
   I'm <strong>Aaron</strong> — a <strong>Graduate Student Researcher in Electrical & Computer Engineering</strong> 🎓. <br>
   My research exists at the nexus of <strong>intelligent systems, custom hardware, and wireless autonomy</strong>.
@@ -21,14 +23,13 @@
   </a>
 </p>
 
----
-
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" align="right" width="460" />
 
-
+---
 
 ### 🎓 Graduate Research Domains
 - **AI Hardware Acceleration** — VLSI/FPGA design for AI accelerators, TinyML, and edge-level agentic AI. 🧠
+- **Advanced Computing & Algorithms** — Distributed systems, parallel computing, and algorithm optimization. 🖥️
 - **Neuromorphic & Bio-Computing** — Spiking Neural Networks (SNNs), in-memory computing, and asynchronous logic. 💡
 - **RF & Microwave Systems** — Intelligent transceivers, cognitive radio (SDR), radar, and metasurface beamforming. 📡
 - **Autonomous Robotic Systems** — Multi-agent swarm intelligence (MARL), SLAM, and adaptive sensor fusion. 🤖
@@ -82,6 +83,7 @@
 ![VHDL](https://img.shields.io/badge/-VHDL-000?&logo=)
 ![CUDA](https://img.shields.io/badge/-CUDA-000?&logo=NVIDIA)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![LabVIEW](https://img.shields.io/badge/-LabVIEW-000?&logo=National-Instruments)
 ![Assembly (ARM/x86)](https://img.shields.io/badge/-Assembly-000?&logo=)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
@@ -126,7 +128,7 @@
 ![Altium Designer](https://img.shields.io/badge/-Altium_Designer-000?&logo=Altium-Designer)
 ![KiCad](https://img.shields.io/badge/-KiCad-000?&logo=KiCad)
 
-**DevOps & Cloud**<br>
+**DevOps, Cloud & Databases**<br>
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -134,6 +136,8 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google-Cloud)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 ---
 
@@ -176,26 +180,27 @@
 ---
 
 ### ⚡ Key Technical Competencies
+- **CS Fundamentals:** Advanced Data Structures, Algorithm Design & Optimization.
+- **AI/ML:** Low-power neural network inference (Quantization, Pruning), TinyML.
+- **Distributed AI & Algorithms:** Multi-Agent Systems (MAS), Federated Learning.
+- **Parallel & HPC:** Parallel computing with NVIDIA CUDA, distributed computing.
 - **VLSI:** Full RTL-to-GDSII flow, Physical Design (P&R, LVS, DRC), Static Timing Analysis (STA).
 - **Verification:** ASIC/SoC verification methodologies (UVM/OVM), formal verification.
 - **FPGA:** High-Level Synthesis (HLS), custom IP core development, SoC co-design (ARM+FPGA).
-- **AI/ML:** Low-power neural network inference optimization (Quantization, Pruning), TinyML.
-- **Embedded:** Hard real-time (RTOS) systems, ISRs, DMA, low-level driver development.
+- **Embedded & OS:** Hard real-time (RTOS) systems, Linux kernel/driver development, ISRs, DMA.
 - **RF:** RF system design, link budget analysis, impedance matching, antenna tuning.
 - **SDR:** DSP algorithm design, custom waveform generation, GNU Radio flowgraphs.
 - **Signal Processing:** Digital filtering (FIR, IIR), adaptive filters, FFT, statistical & array processing.
 - **Control Theory:** State-space modeling, PID/LQR/MPC controllers for dynamic systems.
 - **Robotics:** Kinematics/Dynamics, SLAM, sensor fusion (Kalman/Particle Filters).
-- **AI Strategy:** Multi-agent systems (MAS), decentralized control, federated learning.
+- **Distributed Systems & DevOps:** CI/CD pipelines, containerization (Docker, Kubernetes).
 - **Biomedical:** Biosignal acquisition (EEG/ECG/EMG), feature extraction, and classification.
 - **PCB Design:** Multi-layer PCB design, high-speed signal integrity (SI/PI) simulation.
 - **Circuits:** Mixed-signal/Analog circuit simulation (SPICE), layout, and debugging.
+- **Database Systems:** Relational (PostgreSQL) and NoSQL (MongoDB) database design.
 - **Mechatronics:** Real-time motor & actuator control integration.
 - **Fabrication:** Cleanroom protocols & MEMS/Semiconductor fabrication principles.
 - **Networking:** Protocol stack development, network simulation (ns-3).
-- **Cloud/DevOps:** CI/CD pipelines, containerization, and distributed computing orchestration.
-- **GPU Programming:** Parallel computing with NVIDIA CUDA.
-- **System Modeling:** System-level modeling in MATLAB/Simulink and Python.
 
 ---
 
