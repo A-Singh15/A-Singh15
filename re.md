@@ -24,9 +24,10 @@ h1 align="center">Hello there  ⚡🤖</h1>
 </p>
 
 
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" align="right" width="460" />
 
 ---
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" align="right" width="460" />
+
 
 ### 🎓 Graduate Research Domains
 - **AI Hardware Acceleration** — VLSI/FPGA design for AI accelerators, TinyML, and edge-level agentic AI. 🧠
